@@ -2,6 +2,9 @@
 
 This project is a simple music-sharing platform, similar to SoundCloud, built with Ruby on Rails 7. Users can sign up, upload their music, and listen to tracks shared by other users using a sleek audio player.
 
+![Uploading image.png…]()
+
+
 ## 🚀 Features
 ### User Authentication:
 Powered by [Devise](https://github.com/heartcombo/devise), allowing users to sign up, log in, and manage their accounts securely.
