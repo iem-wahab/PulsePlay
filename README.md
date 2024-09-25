@@ -2,7 +2,7 @@
 
 This project is a simple music-sharing platform, similar to SoundCloud, built with Ruby on Rails 7. Users can sign up, upload their music, and listen to tracks shared by other users using a sleek audio player.
 
-![Uploading image.png…]()
+![Uploading image.png…](https://github.com/iem-wahab/soundcloud/blob/main/Soundcloud%20snap%201.jpg?raw=true)
 
 
 ## 🚀 Features
