@@ -29,8 +29,8 @@ Getting Started
 1. Clone the repository:
 
  ```
-git clone git@github.com:iem-wahab/soundcloud.git
-cd soundcloud
+git clone git@github.com:iem-wahab/PulsePlay.git
+cd PulsePlay
  ```
 2. Install dependencies:
 
