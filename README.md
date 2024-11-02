@@ -1,6 +1,6 @@
-# 🎵 SoundCloud in Ruby on Rails 🎵
+# 🎵 PulsePlay: Bringing Music to Life with Ruby on Rails 🎵
 
-This project is a simple music-sharing platform, similar to SoundCloud, built with Ruby on Rails 7. Users can sign up, upload their music, and listen to tracks shared by other users using a sleek audio player.
+This project is a music-sharing platform, built with Ruby on Rails 7. Users can sign up, upload their music, and listen to tracks shared by other users using a sleek audio player.
 ![Uploading image.png…](https://github.com/iem-wahab/soundcloud/blob/main/Soundcloud%20snap%202.jpg?raw=true)
 ![Uploading image.png…](https://github.com/iem-wahab/soundcloud/blob/main/Soundcloud%20snap%201.jpg?raw=true)
 
