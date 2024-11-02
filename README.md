@@ -1,8 +1,8 @@
 # 🎵 PulsePlay: Bringing Music to Life with Ruby on Rails 🎵
 
 This project is a music-sharing platform, built with Ruby on Rails 7. Users can sign up, upload their music, and listen to tracks shared by other users using a sleek audio player.
-![Uploading image.png…](https://github.com/iem-wahab/PulsePlay/blob/main/PulsePlay%20snap%202.jpg?raw=true)
-![Uploading image.png…](https://github.com/iem-wahab/PulsePlay/blob/main/PulsePlay%20snap%201.jpg?raw=true)
+![Uploading image.png…](https://github.com/iem-wahab/PulsePlay/blob/main/PulsePlay%20snap2.jpg?raw=true)
+![Uploading image.png…](https://github.com/iem-wahab/PulsePlay/blob/main/PulsePlay%20snap1.jpg?raw=true)
 
 
 
